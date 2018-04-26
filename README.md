@@ -1,2 +1,2 @@
-# utility-libraries
-Utility libraries for projects.
+# Utility Libraries for Computing by Design Projects
+
